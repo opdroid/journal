@@ -31,4 +31,5 @@ fields:
   name: hero
   label: Hero Image
 pages:
+- content/blog-posts/Code/hello-world.md
 - content/blog-posts/fall.md
