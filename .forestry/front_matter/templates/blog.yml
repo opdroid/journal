@@ -30,6 +30,3 @@ fields:
 - type: file
   name: hero
   label: Hero Image
-pages:
-- content/blog-posts/geneology-of-morals.md
-- content/blog-posts/sunflower-sutra.md
